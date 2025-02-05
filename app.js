@@ -13,7 +13,6 @@ function agregarAmigo() {
         amigos.push(incluirAmigo);
         actualizarLista(); 
         document.querySelector('#amigo').value = ''; 
-        asignacionTexto(`#listaAmigos`, `${amigos}`);
         return;
     }
 }
@@ -34,4 +33,3 @@ function actualizarLista() {
     document.querySelector('#listaAmigos').innerText = amigos.join('\n');
     return;
 };
-//Codigo 
