@@ -9,9 +9,6 @@ Este proyecto es una sencilla aplicación web para gestionar una lista de amigos
 - Realiza un sorteo aleatorio para seleccionar un amigo.
 - Interfaz simple y fácil de usar.
 
-## 🚀 Demo
-
-Puedes ver cómo funciona la aplicación siguiendo estos pasos o adaptándola para tu propio uso.
 
 ## 🛠️ Tecnologías Utilizadas
 
